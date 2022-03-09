@@ -1,0 +1,14 @@
+plugins {
+    id 'java'
+}
+
+group 'io.github.darkreaper'
+version '1.0-SNAPSHOT'
+
+jar {
+    manifest {
+        attributes(
+                'Main-Class': 'io.github.darkreaper.corruptedunzip.CorruptedUnzip'
+        )
+    }
+}
