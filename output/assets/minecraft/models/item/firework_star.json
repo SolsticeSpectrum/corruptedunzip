@@ -1,1 +1,0 @@
-{"parent":"item/generated","textures":{"layer0":"item/firework_star","layer1":"item/firework_star_overlay"},"overrides":[{"predicate":{"custom_model_data":2353},"model":"custom/entities/raiders/pyro_raider/dyno_lit"},{"predicate":{"custom_model_data":2354},"model":"custom/entities/raiders/pyro_raider/dyno"}]}

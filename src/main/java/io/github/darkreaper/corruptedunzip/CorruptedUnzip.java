@@ -184,7 +184,7 @@ public class CorruptedUnzip {
         }
         if (unmatchedArgs.size() != 1 && unmatchedArgs.size() != 2) {
             System.err.println(
-                    "Syntax: java " + CorruptedUnzip.class.getName() + " [-o] [-q] zipfilename.zip [outputdir]");
+                    "Syntax: java -jar corruptedunzip-1.0-SNAPSHOT.jar [-o] [-q] zipfilename.zip [outputdir]");
             System.err.println(" Where:  -q => quiet");
             System.err.println("         -o => overwrite");
             System.exit(1);

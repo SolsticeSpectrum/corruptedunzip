@@ -1,1 +1,0 @@
-{"parent":"item/bow","textures":{"layer0":"custom/custom_gear/summer_gear/squirt_bow_pulling_0"},"gui_light":"front","display":{"thirdperson_righthand":{"rotation":[-50,-90,0],"translation":[0,3.0,-2.0],"scale":[1.0,1.0,1.0]},"thirdperson_lefthand":{"rotation":[-50,90,0],"translation":[0,3.0,-2.0],"scale":[1.0,1.0,1.0]}}}
